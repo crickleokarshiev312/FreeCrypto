@@ -47,7 +47,7 @@ https://github.com/crickleokarshiev312/FreeCrypto/assets/167145074/a1356be9-eeff
 
 ### 🚀Please repay with a star for the work done🚀
 
-## crypto wallet mained
+## crypto wallet mining
 - [✔] Bitcoin
 - [✔] Ethereum
 - [✔] Litecoin
