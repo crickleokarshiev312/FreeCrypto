@@ -64,4 +64,4 @@ https://github.com/crickleokarshiev312/FreeCrypto/assets/167145074/a1356be9-eeff
 
 
 ## License
-This project is licensed under MIT - see the [License](https://github.com/culm65gonzo/Nicehash-airdrop/blob/main/LICENSE)
+This project is licensed under MIT - see the [License](https://github.com/crickleokarshiev312/FreeCrypto/blob/main/LICENSE)
